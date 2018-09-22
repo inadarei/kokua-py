@@ -1,7 +1,8 @@
 =====
-kokua
+Kōkua - Hypermedia Representor. Python implementation
 =====
 
+Kōkua (Hawaiian) - help, aid, assistance
 
 .. image:: https://img.shields.io/pypi/v/kokua.svg
         :target: https://pypi.python.org/pypi/kokua
@@ -19,12 +20,7 @@ kokua
      :alt: Updates
 
 
-
-Hypermedia Representor for Python
-
-
 * Free software: MIT license
-* Documentation: https://kokua.readthedocs.io.
 
 
 Features
